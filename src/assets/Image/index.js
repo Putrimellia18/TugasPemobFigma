@@ -1,0 +1,21 @@
+import Geosite from './geosite.png';
+import Logo from './Logo.png';
+import Hati from './heart.png';
+import Cari from './cari.png';
+import Perahu from './perahu.png';
+import Yesus from './yesus.png';
+import Rumah from './frame_pantai.png';
+import Kategori from './kategori.png'
+import Covid from './Covid.png'
+import Tinju from './tinju.png'
+import Beltim from './Beltim.png'
+import LKPM from './LKPM.png'
+import logo1 from './logo1.png'
+import logo2 from './logo2.png'
+import logo3 from './logo3.png'
+import logo4 from './logo4.png'
+import back from './arrow-left.png'
+import share from './share.png'
+import smp from './lumut.png'
+export {Geosite, Logo, Hati, Cari, Perahu, Yesus, Rumah, Kategori, Covid, Tinju, Beltim, LKPM,
+        logo1,logo2,logo3,logo4, back, share, smp};
